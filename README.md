@@ -11,3 +11,5 @@ bundler install
 그런다음
 npx @react-native-community/cli doctor
 이걸로 체크
+
+권한 없을 경우 $ sudo chown -R woojisoo ~/react_native_project
