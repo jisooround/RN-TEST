@@ -20,6 +20,7 @@ $ bundle install
 $ cd ios
 $ pod init
 $ pod install
+$ open $프로젝트이름.xcworkspace
 ```
 
 그런다음
