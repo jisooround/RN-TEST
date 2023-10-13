@@ -1,5 +1,14 @@
+
+
 - npx 어쩌고 저쩌고 프로젝트 만든 다음 (공식문서 참고)
 - 프로젝트 실행 [참고](https://medium.com/@reachrasmus/react-native-on-macos-13-2-4f8c2f963d6e)
+
+### 실행법
+
+클론
+```
+$ git clone https://github.com/jisooround/RN-TEST.git
+```
 
 프로젝트 폴더 안에 들어가서
 ```
